@@ -1,5 +1,10 @@
 # Mini Project 2: Program Manajemen Latihan Fisik (FitLog)
 
+Nama: Gresius Krisna Samuel
+NIM: 058
+Kelas:B
+
+
 # 1. Deskripsi Singkat Program
 FitLog adalah program berbasis Command Line Interface (CLI) yang dibangun menggunakan bahasa Python. Program ini dirancang untuk mencatat dan mengelola rencana latihan fisik. di versi ini, program telah dikembangkan sesuai instruksi di GCR.
 
